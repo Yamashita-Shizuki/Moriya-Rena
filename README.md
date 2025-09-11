@@ -23,6 +23,6 @@
 ## GitHub統計
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Rena-Moriya&theme=calm&show_icons=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rena-Moriya&theme=calm&langs_count=6&layout=compact" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Moriya-Rena&theme=calm&show_icons=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriya-Rena&theme=calm&langs_count=6&layout=compact" />
 </div>
