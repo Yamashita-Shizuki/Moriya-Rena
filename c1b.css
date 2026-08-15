@@ -1,0 +1,14 @@
+<div class="anki-box">
+  <div class="anki-badge">
+    <span class="badge-dot"></span>
+    <span>AWS Solution Architect</span>
+  </div>
+  <div class="anki-question">{{Front}}</div>
+
+  <div class="anki-separator"></div>
+
+  <div class="anki-answer-box">
+    <div class="anki-answer-label">Meaning / Definition</div>
+    <div class="anki-answer">{{Back}}</div>
+  </div>
+</div>
